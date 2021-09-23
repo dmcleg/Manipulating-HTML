@@ -1,0 +1,1 @@
+const friends = ["Preston", 'Sheffield', 'John David', 'Ben', 'Hope', 'Andy', 'Marisa', 'Madi', 'Tobi', 'Demetrius']
